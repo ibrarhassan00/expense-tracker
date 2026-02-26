@@ -1,4 +1,6 @@
-export const BASE_URL = "http://localhost:8000";
+export const BASE_URL = "https://expense-tracker-backend-ten-liard.vercel.app/";
+
+//http://localhost:8000
 
 //utils/apiPath.js
 export const API_PATHS = {
